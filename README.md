@@ -1,6 +1,10 @@
 # tmlib.js
 Javascript v 0.5.0
 
+# Environment
+This library tested on
+- Google Chrome 42
+
 # Author
 Fumihiko Akagi
 
