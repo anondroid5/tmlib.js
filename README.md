@@ -5,13 +5,8 @@ Javascript v 0.5.0
 This library tested on
 - Google Chrome 42
 
-# Author
-Fumihiko Akagi
-
 # Copyright
     The MIT License
-
-    Copyright (c) 2013 Fumihiko Akagi
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of this
     software and associateddocumentation files (the "Software"), to deal in the Software
