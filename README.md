@@ -4,6 +4,8 @@ Javascript v 0.5.0
 # Environment
 This library tested on
 - Google Chrome 42
+- Mozilla Firefox 38.0.1
+
 
 # Copyright
     The MIT License
