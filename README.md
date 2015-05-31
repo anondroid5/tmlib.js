@@ -16,7 +16,11 @@ Link
 
 <img src="./Raw/images/link.png" width="200" alt="link">
 
-<img src="./Raw/images/koopa.png" width="200" alt="koopa">
+Luigi
+
+<img src="./Raw/images/luigi.png" width="200" alt="luigi">
+
+
 <img src="./Raw/images/koopa.png" width="200" alt="koopa">
 <img src="./Raw/images/koopa.png" width="200" alt="koopa">
 
