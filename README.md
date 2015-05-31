@@ -40,6 +40,14 @@ madomagi5
 
 <img src="./Raw/images/madomagi5.png" width="200" alt="madomagi5">
 
+mario
+
+<img src="./Raw/images/mario.png" width="200" alt="mario">
+
+slime
+
+<img src="./Raw/images/slime.png" width="200" alt="slime">
+
 # Copyright
     The MIT License
 
