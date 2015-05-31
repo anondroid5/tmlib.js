@@ -7,9 +7,9 @@ This library tested on
 - Google Chrome 42
 - Mozilla Firefox 38.0.1
 
-# Character
+# Characters
 
-### マ◯オ
+#### マ◯オ
 
 <img src="./Raw/images/mario.png" width="200" alt="mario">
 
