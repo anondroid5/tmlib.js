@@ -7,7 +7,7 @@ This library tested on
 - Google Chrome 42
 - Mozilla Firefox 38.0.1
 
-Koopa
+ク◯パ
 
 <img src="./Raw/images/koopa.png" width="200" alt="koopa">
 
