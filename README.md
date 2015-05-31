@@ -27,7 +27,7 @@ This library tested on
 
 <img src="./Raw/images/slime.png" width="200" alt="slime">
 
-ま◯か
+鹿目ま◯か
 
 <img src="./Raw/images/madomagi1.png" width="200" alt="madomagi1">
 
@@ -35,15 +35,15 @@ This library tested on
 
 <img src="./Raw/images/madomagi2.png" width="200" alt="madomagi2">
 
-さ◯か
+美樹さ◯か
 
 <img src="./Raw/images/madomagi3.png" width="200" alt="madomagi3">
 
-マ◯
+巴マ◯
 
 <img src="./Raw/images/madomagi4.png" width="200" alt="madomagi4">
 
-ほ◯ら
+佐倉ほ◯ら
 
 <img src="./Raw/images/madomagi5.png" width="200" alt="madomagi5">
 
