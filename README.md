@@ -27,11 +27,11 @@ This library tested on
 
 <img src="./Raw/images/slime.png" width="200" alt="slime">
 
-madomagi1
+ま◯か
 
 <img src="./Raw/images/madomagi1.png" width="200" alt="madomagi1">
 
-madomagi2
+ほ◯ら
 
 <img src="./Raw/images/madomagi2.png" width="200" alt="madomagi2">
 
