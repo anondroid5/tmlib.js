@@ -28,8 +28,17 @@ madomagi2
 
 <img src="./Raw/images/madomagi2.png" width="200" alt="madomagi2">
 
+madomagi3
 
+<img src="./Raw/images/madomagi3.png" width="200" alt="madomagi3">
 
+madomagi4
+
+<img src="./Raw/images/madomagi4.png" width="200" alt="madomagi4">
+
+madomagi5
+
+<img src="./Raw/images/madomagi5.png" width="200" alt="madomagi5">
 
 # Copyright
     The MIT License
