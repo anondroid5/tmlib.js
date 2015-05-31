@@ -1,5 +1,6 @@
 # tmlib.js
-[![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
+https://img.shields.io/badge/version-v0.5.0-blue.svg
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
 v 0.5.0
 
