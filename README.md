@@ -35,7 +35,7 @@ This library tested on
 
 <img src="./Raw/images/madomagi2.png" width="200" alt="madomagi2">
 
-madomagi3
+さ◯か
 
 <img src="./Raw/images/madomagi3.png" width="200" alt="madomagi3">
 
