@@ -20,8 +20,12 @@ Luigi
 
 <img src="./Raw/images/luigi.png" width="200" alt="luigi">
 
+madomagi1
 
-<img src="./Raw/images/koopa.png" width="200" alt="koopa">
+<img src="./Raw/images/madomagi1.png" width="200" alt="madomagi1">
+
+
+
 <img src="./Raw/images/koopa.png" width="200" alt="koopa">
 
 
