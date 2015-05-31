@@ -24,9 +24,9 @@ madomagi1
 
 <img src="./Raw/images/madomagi1.png" width="200" alt="madomagi1">
 
+madomagi2
 
-
-<img src="./Raw/images/koopa.png" width="200" alt="koopa">
+<img src="./Raw/images/madomagi2.png" width="200" alt="madomagi2">
 
 
 
