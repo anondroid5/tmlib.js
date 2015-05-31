@@ -43,7 +43,7 @@ madomagi4
 
 <img src="./Raw/images/madomagi4.png" width="200" alt="madomagi4">
 
-madomagi5
+ほ◯ら
 
 <img src="./Raw/images/madomagi5.png" width="200" alt="madomagi5">
 
