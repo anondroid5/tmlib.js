@@ -9,43 +9,43 @@ This library tested on
 
 # Characters
 
-#### マ◯オ
+##### マ◯オ
 
 <img src="./Raw/images/mario.png" width="200" alt="mario">
 
-#### ル◯ージ
+##### ル◯ージ
 
 <img src="./Raw/images/luigi.png" width="200" alt="luigi">
 
-#### ク◯パ
+##### ク◯パ
 
 <img src="./Raw/images/koopa.png" width="200" alt="koopa">
 
-#### リ◯ク
+##### リ◯ク
 
 <img src="./Raw/images/link.png" width="200" alt="link">
 
-#### ス◯イム
+##### ス◯イム
 
 <img src="./Raw/images/slime.png" width="200" alt="slime">
 
-#### 鹿目ま◯か
+##### 鹿目ま◯か
 
 <img src="./Raw/images/madomagi1.png" width="200" alt="madomagi1">
 
-#### 佐倉◯子
+##### 佐倉◯子
 
 <img src="./Raw/images/madomagi2.png" width="200" alt="madomagi2">
 
-#### 美樹さ◯か
+##### 美樹さ◯か
 
 <img src="./Raw/images/madomagi3.png" width="200" alt="madomagi3">
 
-#### 巴マ◯
+##### 巴マ◯
 
 <img src="./Raw/images/madomagi4.png" width="200" alt="madomagi4">
 
-#### 佐倉ほ◯ら
+##### 佐倉ほ◯ら
 
 <img src="./Raw/images/madomagi5.png" width="200" alt="madomagi5">
 
