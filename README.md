@@ -11,7 +11,7 @@ This library tested on
 
 <img src="./Raw/images/koopa.png" width="200" alt="koopa">
 
-Link
+リ◯ク
 
 <img src="./Raw/images/link.png" width="200" alt="link">
 
@@ -43,7 +43,7 @@ madomagi5
 
 <img src="./Raw/images/mario.png" width="200" alt="mario">
 
-スライム
+ス◯イム
 
 <img src="./Raw/images/slime.png" width="200" alt="slime">
 
