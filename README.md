@@ -1,5 +1,5 @@
 # tmlib.js
-Javascript v 0.5.0
+v 0.5.0
 
 # Environment
 This library tested on
