@@ -7,6 +7,14 @@ This library tested on
 - Google Chrome 42
 - Mozilla Firefox 38.0.1
 
+マ◯オ
+
+<img src="./Raw/images/mario.png" width="200" alt="mario">
+
+ル◯ージ
+
+<img src="./Raw/images/luigi.png" width="200" alt="luigi">
+
 ク◯パ
 
 <img src="./Raw/images/koopa.png" width="200" alt="koopa">
@@ -15,9 +23,9 @@ This library tested on
 
 <img src="./Raw/images/link.png" width="200" alt="link">
 
-ル◯ージ
+ス◯イム
 
-<img src="./Raw/images/luigi.png" width="200" alt="luigi">
+<img src="./Raw/images/slime.png" width="200" alt="slime">
 
 madomagi1
 
@@ -38,14 +46,6 @@ madomagi4
 madomagi5
 
 <img src="./Raw/images/madomagi5.png" width="200" alt="madomagi5">
-
-マ◯オ
-
-<img src="./Raw/images/mario.png" width="200" alt="mario">
-
-ス◯イム
-
-<img src="./Raw/images/slime.png" width="200" alt="slime">
 
 # Copyright
     The MIT License
