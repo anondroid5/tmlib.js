@@ -1,5 +1,5 @@
 # tmlib.js
-[![Version](https://img.shields.io/badge/version-v0.5.0-blue.svg?style=flat)]()
+[![Version](https://img.shields.io/badge/version-v0.5.0-blue.svg?style=flat)](http://phi-jp.github.io/tmlib.js)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)](http://opensource.org/licenses/MIT)
 
 # Environment
