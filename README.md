@@ -1,5 +1,5 @@
 # tmlib.js
-https://img.shields.io/badge/version-v0.5.0-blue.svg
+[![Version](https://img.shields.io/badge/version-v0.5.0-blue.svg?style=flat)]()
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)](http://opensource.org/licenses/MIT)
 
 v 0.5.0
